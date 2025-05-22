@@ -1,5 +1,5 @@
-# IU-DatenmodellierungUndDatenbankSysteme
-Übungen in Python zum IU Modul DatenmodellierungUndDatenbankSysteme.
+# IU-Datenmodellierung und Datenbanksysteme
+Übungen in Python zum IU Modul Datenmodellierung und Datenbanksysteme.
 
 Übungen:
 
